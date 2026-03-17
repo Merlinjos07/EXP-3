@@ -11,7 +11,7 @@ Name of the apparatus
 Range / Type	
 Quantity
 
-1	Incandescent Lamp	60W	1 No.
+1	Incandescent Lamp	60W	1 
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
 4	Wires	1/18”	As per requirement
@@ -42,7 +42,8 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
 	
-Cross connection: CIRCUIT DIAGRAM:
+[ex 3.pdf](https://github.com/user-attachments/files/26059366/ex.3.pdf)
+
 
 Tabulation:2
 
